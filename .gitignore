@@ -6,7 +6,4 @@ __pycache__/
 venv/
 *.egg-info/
 .DS_Store
-agent.py
-memory.py
-team.py
 .streamlit/secrets.toml
