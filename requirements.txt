@@ -3,6 +3,7 @@ streamlit
 groq
 openai
 ddgs
-google-genai agno
+google-genai 
+agno
 sqlalchemy
 youtube_transcript_api
